@@ -13,6 +13,9 @@ build/
 .env
 .env.local
 
+# ルート直下のZIP (dist/に正本あり)
+/*.zip
+
 # IDE
 .vscode/
 .idea/
