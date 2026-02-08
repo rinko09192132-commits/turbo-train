@@ -1,0 +1,19 @@
+# データ・キャッシュ
+data/
+output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# 環境変数
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
